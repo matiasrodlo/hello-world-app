@@ -2,7 +2,9 @@
 
 This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html).
 
-![download](https://github.com/matiasrodlo/hello-world-app/assets/52969662/15e1c7d9-937c-4d0a-aca9-3e913a1f8913)
+ <a href="#">
+    <img src="https://github.com/matiasrodlo/hello-world-app/assets/52969662/15e1c7d9-937c-4d0a-aca9-3e913a1f8913" alt="helloworld">
+  </a>
 
 ## Deployment
 
